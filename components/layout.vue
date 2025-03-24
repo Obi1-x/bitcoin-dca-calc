@@ -20,7 +20,7 @@
           <NuxtLink to="/btcstimi" class="text-gray-600 hover:text-gray-900 dark:text-gray-300 dark:hover:text-white">
             Stimulus Calculator
           </NuxtLink>
-          <NuxtLink to="/affiliate/bitcoin-source" class="text-gray-600 hover:text-gray-900 dark:text-gray-300 dark:hover:text-white">
+          <NuxtLink to="/affiliate/bitcoinsource" class="text-gray-600 hover:text-gray-900 dark:text-gray-300 dark:hover:text-white">
             Bitcoin Source
           </NuxtLink>
         </nav>
